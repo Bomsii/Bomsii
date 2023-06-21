@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bomsii
-- 👀 I’m interested in ...learning more about full stack developer
-- 🌱 I’m currently learning ...rivtech
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...learning more about front end web development 
+- 🌱 I’m currently learning ...front-end web development 
 - 📫 How to reach me ...emial:@lilbieber1999@gmail.com 
 
 <!---
